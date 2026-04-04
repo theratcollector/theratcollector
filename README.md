@@ -14,7 +14,6 @@ and then wonder why i didn’t do it that way the first time
 i don’t like fighting with my tools
 
 i like when things just ✨work✨ 
-no magic, no rituals, no 3 hour debugging session because of a missing bracket
 
 ---
 
