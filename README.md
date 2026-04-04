@@ -6,13 +6,15 @@
 hi, i'm daniel
 
 i build things  
-then rebuild them because they can be simpler
+then rebuild them because they can be simpler  
+and then wonder why i didn’t do it that way the first time
 
 ---
 
-i don’t like fighting tools, 200 layers of abstraction or pretending complexity equals intelligence  
+i don’t like fighting with my tools
 
-i like when things just ✨work✨
+i like when things just ✨work✨ 
+no magic, no rituals, no 3 hour debugging session because of a missing bracket
 
 ---
 
@@ -26,6 +28,7 @@ because things should actually run
 
 sqlite  
 because not everything needs to be a distributed system  
+(yes, even your startup)
 
 ---
 
@@ -33,10 +36,13 @@ because not everything needs to be a distributed system
 
 most things are way more complicated than they need to be  
 
-i prefer less code  
+if it takes 5 files, it’s already suspicious  
 
-just something that works  
-and doesn’t fight back
+good code feels quiet  
+predictable  
+almost boring  
+
+that’s usually when it’s actually good
 
 ---
 
@@ -46,14 +52,18 @@ making things smaller
 faster  
 cleaner  
 
-and occasionally breaking everything
+and occasionally breaking everything  
+just to prove it wasn’t that stable to begin with
 
 ---
 
 ## side note
 
 if your framework needs a tutorial to explain state  
-we might have different philosophies
+we might have different philosophies  
+
+if it needs a second tutorial to explain the first one  
+we definitely do
 
 ---
 
@@ -62,3 +72,5 @@ we might have different philosophies
 building  
 learning  
 not rushing  
+
+shipping when it feels right, not when it’s “feature complete”
