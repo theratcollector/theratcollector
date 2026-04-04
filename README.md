@@ -12,22 +12,33 @@
 ```js
 const me = {
   name: "daniel",
-  stack: ["svelte", "node", "sqlite"],
-  buildingStyle: "make it work, make it clean, then make it smaller",
-  redFlags: [
-    "too many abstractions",
-    "state tutorials longer than the app",
-    "enterprise words in small projects"
+
+  stack: {
+    frontend: "svelte", // because i enjoy development
+    backend: "node",    // because it just works
+    db: "sqlite"        // because calm down, it's not facebook
+  },
+
+  mindset: "keep it simple until it feels illegal",
+
+  opinions: [
+    "most problems are overengineered",
+    "complexity is often a choice",
+    "clean code should not need explaining"
   ],
-  greenFlags: [
-    "fast ui",
-    "simple backend",
-    "boring reliability",
-    "code that looks like it knew what it was doing"
+
+  dislikes: [
+    "fighting frameworks",
+    "magic that breaks at 2am",
+    "pretending complexity = intelligence"
   ],
-  mood: "quietly judging unnecessary complexity"
+
+  sideEffects: [
+    "occasionally breaking everything",
+    "deleting features and calling it improvement",
+    "making things suspiciously simple"
+  ]
 };
-<br/>
 ```
 
 <br/> <p align="left"> i don’t really care for clever code<br/> i care if it runs well, feels right, and doesn’t act mysterious at 2am </p> <p align="left"> node does the job<br/> sqlite is underrated<br/> and yes, this is enough </p> <br/> <h3 align="left">current side quest</h3> <p align="left"> building cool stuff<br/> learning deeper stuff<br/> keeping things unreasonably simple </p>
