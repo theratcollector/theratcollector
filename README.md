@@ -49,4 +49,4 @@ get motivation() {
 }
 ```
 
-<br/> <p align="left"> i don’t really care for clever code<br/> i care if it runs well, feels right, and doesn’t act sus </p> <p align="left"> node does the job<br/> sqlite is underrated<br/> and yes, this is enough </p> <br/> <h3 align="left">current side quest</h3> <p align="left"> building cool stuff jsut for fun<br/> learning deeper stuff because there is always something i dont know<br/> keeping things simple </p>
+<br/> <p align="left"> i don’t really care for clever code<br/> i care if it runs well, feels right, and doesn’t act sus </p> <p align="left"> node does the job<br/> sqlite is underrated<br/> and yes, this is enough </p> <br/> <h3 align="left">current side quest</h3> <p align="left"> building cool stuff just for fun<br/> learning deeper stuff because there is always something i dont know<br/> keeping things simple </p>
