@@ -52,7 +52,6 @@ faster
 cleaner  
 
 and occasionally breaking everything  
-just to prove it wasn’t that stable to begin with
 
 ---
 
