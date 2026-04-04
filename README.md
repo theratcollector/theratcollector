@@ -1,9 +1,9 @@
-# svelte feels illegal.  
-# like it shouldn't be this simple.
+# svelte feels illegal ✦  
+# like it shouldn't be this simple
 
 ---
 
-hi, i'm daniel
+hi, i'm daniel ✧
 
 i build things  
 then rebuild them because they can be simpler
@@ -14,11 +14,11 @@ i don’t like fighting tools
 i don’t like 200 layers of abstraction  
 i don’t like pretending complexity = intelligence  
 
-i like when things just… make sense
+i like when things just… work ✦
 
 ---
 
-## stack (or whatever you want to call it)
+## stack (or whatever you want to call it) ✧
 
 svelte  
 because i enjoy my life  
@@ -31,41 +31,41 @@ because not everything needs to be a distributed system
 
 ---
 
-## how i think
+## how i think ✦
 
-most problems are overengineered  
-most code is louder than it needs to be  
+most things are way more complicated than they need to be  
 
-good systems feel quiet  
-predictable  
-almost boring  
+i prefer  
+less code  
+less noise  
+less “magic”  
 
-that’s when you know it’s right
+just something that works  
+and doesn’t fight back ✧
 
 ---
 
-## currently
+## currently ✧
 
 making things smaller  
 faster  
 cleaner  
 
-and occasionally breaking everything  
-just to understand it better
+and occasionally breaking everything ✦
 
 ---
 
-## side note
+## side note ✦
 
 if your framework needs a tutorial to explain state  
 we might have different philosophies
 
 ---
 
-## status
+## status ✧
 
 building  
 learning  
 not rushing  
 
----
+✦
