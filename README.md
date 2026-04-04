@@ -10,11 +10,9 @@ then rebuild them because they can be simpler
 
 ---
 
-i don’t like fighting tools  
-i don’t like 200 layers of abstraction  
-i don’t like pretending complexity = intelligence  
+i don’t like fighting tools, 200 layers of abstraction or pretending complexity equals intelligence  
 
-i like when things just work
+i like when things just ✨work✨
 
 ---
 
@@ -35,10 +33,7 @@ because not everything needs to be a distributed system
 
 most things are way more complicated than they need to be  
 
-i prefer  
-less code  
-less noise  
-less “magic”  
+i prefer less code  
 
 just something that works  
 and doesn’t fight back
@@ -55,7 +50,7 @@ and occasionally breaking everything
 
 ---
 
-## side note ✨
+## side note
 
 if your framework needs a tutorial to explain state  
 we might have different philosophies
