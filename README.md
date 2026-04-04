@@ -9,6 +9,8 @@
 
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=2600&pause=700&color=A0A0A0&lines=things+should+just+work;less+code+%3E+more+code;svelte+propaganda;good+code+feels+quiet;occasionally+breaking+everything;ship+it+before+it+gets+ideas;this+could+have+been+a+div;complexity+is+often+a+choice;sqlite+is+enough+actually;i+removed+the+bug+by+removing+the+feature;state+should+not+require+emotional+strength;works+on+my+machine+%E2%9C%93;coffee+is+part+of+the+stack;that+sounds+like+a+react+problem;2am+is+a+dangerous+time+to+refactor)](https://git.io/typing-svg)
+
 ```js
 const me = {
   name: "daniel",
