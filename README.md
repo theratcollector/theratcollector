@@ -14,6 +14,9 @@
 ```js
 const me = {
   name: "daniel",
+  plans: undefined,
+  future: null,
+  motivation: "sometimes",
 
   stack: {
     frontend: "svelte", // because i enjoy development
@@ -30,9 +33,8 @@ const me = {
   ],
 
   dislikes: [
-    "fighting frameworks",
-    "magic that breaks at 2am",
-    "pretending complexity = intelligence"
+    "fighting with my framework (yes im talking to you, React)",
+    "thats basically everything"
   ],
 
   sideEffects: [
@@ -41,6 +43,10 @@ const me = {
     "making things suspiciously simple"
   ]
 };
+
+get motivation() {
+  return Math.random() > 0.7 ? "lets build something insane" : null;
+}
 ```
 
 <br/> <p align="left"> i don’t really care for clever code<br/> i care if it runs well, feels right, and doesn’t act sus </p> <p align="left"> node does the job<br/> sqlite is underrated<br/> and yes, this is enough </p> <br/> <h3 align="left">current side quest</h3> <p align="left"> building cool stuff jsut for fun<br/> learning deeper stuff because there is always something i dont know<br/> keeping things simple </p>
