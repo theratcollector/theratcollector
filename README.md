@@ -8,3 +8,5 @@ i spend too long on small details, then remove half of them.
 the presentable part is below.
 
 most of the unfinished saas projects are private, obviously.
+
+#Svelte Gang, try it
